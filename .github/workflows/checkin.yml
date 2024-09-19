@@ -2,8 +2,10 @@ name: Get Subscription Weekly
 
 on:
   schedule:
-    - cron: '0 23 * * *'
-    - cron: '0 10 * * *'
+    - cron: '50 23 * * *'
+    - cron: '06 6 * * *'
+    - cron: '12 12 * * *'
+    - cron: '14 14 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
