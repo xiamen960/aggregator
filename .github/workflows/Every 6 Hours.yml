@@ -1,4 +1,4 @@
-name: Get Subscription Every 6 Hours
+name: Get Subscription 
 
 on:
   schedule:
